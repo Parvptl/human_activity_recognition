@@ -12,6 +12,7 @@ The project will follow a comprehensive machine learning workflow, covering ever
 
 This project will use the **UCI Human Activity Recognition Using Smartphones Dataset**. This dataset contains pre-processed time-series data from 30 subjects, making it ideal for both classification and sequential modeling tasks.
 
+https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones
 ---
 
 ## Proposed Tech Stack
