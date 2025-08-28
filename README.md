@@ -21,13 +21,13 @@ https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphone
 
 * Core Data Libraries: Pandas (for data manipulation), NumPy (for numerical operations)
 
-*Machine Learning: Scikit-learn (for all your models, from Logistic Regression to PCA)
+* Machine Learning: Scikit-learn (for all your models, from Logistic Regression to PCA)
 
-*Data Visualization: Matplotlib & Seaborn (for creating plots in your notebooks)
+* Data Visualization: Matplotlib & Seaborn (for creating plots in your notebooks)
 
-*Web Application: Streamlit (for building the interactive user interface)
+* Web Application: Streamlit (for building the interactive user interface)
 
-*Model Persistence: Joblib (for saving and loading your trained scikit-learn model)
+* Model Persistence: Joblib (for saving and loading your trained scikit-learn model)
 
 ---
 
