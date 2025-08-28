@@ -17,9 +17,17 @@ https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphone
 
 ## Proposed Tech Stack
 
-* **Language:** Python 3.x
-* **Core Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-* **Machine Learning:** Scikit-learn
+* Language: Python
+
+* Core Data Libraries: Pandas (for data manipulation), NumPy (for numerical operations)
+
+*Machine Learning: Scikit-learn (for all your models, from Logistic Regression to PCA)
+
+*Data Visualization: Matplotlib & Seaborn (for creating plots in your notebooks)
+
+*Web Application: Streamlit (for building the interactive user interface)
+
+*Model Persistence: Joblib (for saving and loading your trained scikit-learn model)
 
 ---
 
